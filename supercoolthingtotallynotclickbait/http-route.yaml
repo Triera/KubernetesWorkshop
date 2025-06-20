@@ -9,7 +9,7 @@ spec:
     - name: gke-gateway
       namespace: gateway
   hostnames:
-    - whoami-triera.s9n.no
+    - whoami-coolthing.s9n.no
   rules:
     - matches:
         - path:
